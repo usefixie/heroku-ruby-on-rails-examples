@@ -1,0 +1,23 @@
+{
+  "name": "Fixie Ruby on Rails Examples",
+  "description": "An example Ruby on Rails app using Fixie's static IPs for outbound request",
+  "keywords": [
+    "network",
+    "outbound",
+    "static",
+    "ip",
+    "ips",
+    "request",
+    "proxy",
+    "address",
+    "dedicated",
+    "ruby",
+    "ruby on rails"
+  ],
+  "website": "http://usefixie.com/",
+  "repository": "https://github.com/heroku/node-js-sample",
+  "logo": "http://usefixie.com/img/fixie-button-128.png",
+  "addons": [
+    "fixie:free"
+  ]
+}
